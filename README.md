@@ -1,6 +1,6 @@
 # Personal Portfolio
 
-(https://www.emilt.xyz "Website Link")
+https://www.emilt.xyz
 
 Made with HTML, CSS and JS elements. 
 
