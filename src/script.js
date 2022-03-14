@@ -10,7 +10,7 @@ hamburgerButton.addEventListener('click', toggleButton)
 /* typing animation */
 var typed = new Typed(".typing",{
     strings:["Tsihkanovich",'Tiskanovich','Tsikhanovich'],
-    typespeed:100,
-    BackSpeed:60,
+    typespeed:10,
+    BackSpeed:6,
     loop:true
 })
