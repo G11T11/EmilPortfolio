@@ -34,6 +34,8 @@ ul {
     font-size: 30px;
 }
 
+}
+
 li {
     text-decoration: none;
     transition: color 0.5s;
@@ -56,9 +58,10 @@ h2 {
 }
 
 p {
-    margin: 0;
-    font-size: 30px;
+    margin: 5;
+    font-size: 20px;
     font-weight: 300;
+    padding-left: 5px;
 }
 
 .subtext {
@@ -82,7 +85,7 @@ p {
 .button {
      width: 200px;
     height: 50px;
-    background-color:#fafafa;
+    background-color: #fafafa;
     border-radius: 30px;
     text-align: center;
     font-family:"Space Mono";
@@ -94,7 +97,7 @@ p {
     float: left; 
     border: 0;
     font-size: 30px;
-    padding-top: 10px;
+    top-padding: 10px;
 }
 
 .button:hover {
