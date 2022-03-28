@@ -83,7 +83,7 @@ p {
 .button {
      width: 200px;
     height: 50px;
-    background-color: #fafafa;
+    background-color:#fafafa;
     border-radius: 30px;
     text-align: center;
     font-family:"Space Mono";
@@ -95,7 +95,7 @@ p {
     float: left; 
     border: 0;
     font-size: 30px;
-    top-padding: 10px;
+    padding-top: 10px;
 }
 
 .button:hover {
