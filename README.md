@@ -1,5 +1,7 @@
 # Original Portfolio [old]
 
+🔗 Link [here](https://emiltsi.github.io/)
+
 Made with HTML, CSS and JS elements. 
 
 Responsive design with a blue colour scheme.
